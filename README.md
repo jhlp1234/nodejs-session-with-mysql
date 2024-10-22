@@ -1,1 +1,1 @@
-session store mysql로 설정
+session store를 mysql로 설정
